@@ -9,7 +9,7 @@ text.shadow {
 }
 
 path {
-    stroke: steelblue;
+    stroke: #000;
     stroke-width: 1;
     fill: none;
 }
@@ -32,7 +32,7 @@ path {
 }
 
 .area {
-    fill: lightsteelblue;
+    fill: #840032;
     stroke-width: 0;
 }
 
