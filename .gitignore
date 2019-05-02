@@ -38,6 +38,5 @@ jspm_packages
 
 # local data
 data/
-config.json
 .node-xmlhttprequest-*
 /nbproject/private/
