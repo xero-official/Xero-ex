@@ -46,7 +46,7 @@
         </tr>
         <tr ng-hide="tx.value==0">
           <td width="25%">Value:</td>
-          <td><span style="color:green"> <img src="/img/etc-mini-logo.svg" alt="mini-logo" class="mini-logo" /> {{tx.value | number: 8}} {{ settings.symbol }}</span><span ng-show="settings.useFiat"> => {{ tx.valueUSD | currency : "USD $" : 4 }}</span></td>
+          <td><span style="color:#840032"> <img src="/img/etc-mini-logo.svg" alt="mini-logo" class="mini-logo" /> {{tx.value | number: 8}} {{ settings.symbol }}</span><span ng-show="settings.useFiat"> => {{ tx.valueUSD | currency : "USD $" : 4 }}</span></td>
         </tr>
         <tr ng-show="tx.tokenValue">
           <td width="25%">Token Value:</td>
