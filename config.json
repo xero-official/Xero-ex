@@ -20,7 +20,7 @@
         "github": "https://github.com/ethereumclassic",
         "logo": "/img/explorer-logo.png",
         "copyright": "2019 &copy; ethoLABS.",
-        "poweredbyCustom": true,
+        "poweredbyCustom": false,
         "poweredbyEtcImage": "/img/powered-by-etcexplorer-w.png",
         "poweredbyEtc": false,
         "tokenList": "tokens.json",
