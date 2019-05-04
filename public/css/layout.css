@@ -1110,14 +1110,14 @@ body,html {
 }
 
 .page-head .page-title>h1 {
-    color: #697882;
+    color: #840032;
     font-size: 22px;
     font-weight: 400;
     margin: 0;
 }
 
 .page-head .page-title>h1>small {
-    color: #9eacb4;
+    color: #000;
     font-size: 13px;
     font-weight: 400;
 }
