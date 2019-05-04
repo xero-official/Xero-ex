@@ -14626,7 +14626,7 @@ body[ng-controller] .modal {
 
 .tabbable-line>.nav-tabs>li.active {
   background: 0 0;
-  border-bottom: 4px solid #36c6d3;
+  border-bottom: 6px solid #840032;
   position: relative
 }
 
