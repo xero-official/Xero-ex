@@ -48,7 +48,7 @@ img.logo-default {
     font-weight: 800;
     text-align: center;
 }
-.fade {opacity: 0.6}
+.fade {opacity: 1}
 .portlet {
     margin-top: 0;
     margin-bottom: 25px;
