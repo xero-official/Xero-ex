@@ -111,7 +111,7 @@ div .todo-tasklist-item:hover {
 
 .todo-tasklist-item-title {
   font-size: 14px;
-  color: #2b4a5c;
+  color: #000;
   font-weight: 600;
   padding-top: 3px;
   padding-bottom: 10px
@@ -152,13 +152,13 @@ div .todo-tasklist-item:hover {
 }
 
 .todo-tasklist-date {
-  color: #637b89 !important;
+  color: #000 !important;
   margin-right: 12px;
   font-size: 12px;
 }
 
 .todo-tasklist-date i {
-  color: #abbfca !important;
+  color: #840032 !important;
   margin-right: 5px
 }
 

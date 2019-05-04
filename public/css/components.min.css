@@ -980,7 +980,7 @@ hr, p {
 }
 
 .primary-link {
-  color: #65A0D0;
+  color: #0b07a2;
   font-weight: 600
 }
 
@@ -1034,7 +1034,7 @@ h1.block, h2.block, h3.block, h4.block, h5.block, h6.block {
 }
 
 a {
-  color: #337ab7
+  color: #0b07a2
 }
 
 a:hover {
@@ -1491,7 +1491,7 @@ code {
 
 .general-item-list>.item>.item-head {
   margin-bottom: 5px;
-  color: #96a5aa
+  color: #000
 }
 
 .general-item-list>.item>.item-head:after, .general-item-list>.item>.item-head:before {
@@ -21506,7 +21506,7 @@ body[ng-controller] .modal {
 }
 
 .font-red {
-  color: #e7505a !important
+  color: #000 !important
 }
 
 .bg-font-red {
