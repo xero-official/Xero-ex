@@ -3127,8 +3127,8 @@ li [class*=" fa-"].icon-large, li [class*=" glyphicon-"].icon-large, li [class*=
 
 .btn.grey-cascade:not(.btn-outline) {
   color: #FFF;
-  background-color: #95A5A6;
-  border-color: #95A5A6
+  background-color: #00595F;
+  border-color: #000
 }
 
 .btn.grey-cascade:not(.btn-outline).focus, .btn.grey-cascade:not(.btn-outline):focus {
@@ -5887,7 +5887,7 @@ li [class*=" fa-"].icon-large, li [class*=" glyphicon-"].icon-large, li [class*=
 }
 
 .input-group-addon>i {
-  color: #c5cdda
+  color: #840032
 }
 
 .form-control.white {

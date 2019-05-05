@@ -3190,7 +3190,7 @@ textarea.form-control {
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #737373
+  color: #000
 }
 
 @media (min-width:768px) {
@@ -3442,8 +3442,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #659be0;
-  border-color: #508edb
+  background-color: #840032;
+  border-color: #000
 }
 
 .btn-info.focus, .btn-info:focus {
@@ -3454,8 +3454,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-info.active, .btn-info:active, .btn-info:hover, .open>.btn-info.dropdown-toggle {
   color: #fff;
-  background-color: #3a80d7;
-  border-color: #286ec5
+  background-color: #001b3e;
+  border-color: #000
 }
 
 .btn-info.active.focus, .btn-info.active:focus, .btn-info.active:hover, .btn-info:active.focus, .btn-info:active:focus, .btn-info:active:hover, .open>.btn-info.dropdown-toggle.focus, .open>.btn-info.dropdown-toggle:focus, .open>.btn-info.dropdown-toggle:hover {

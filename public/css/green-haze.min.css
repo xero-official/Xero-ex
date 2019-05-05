@@ -197,7 +197,7 @@ body.page-md {
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li>a {
-  color: #577688;
+  color: #000;
 }
 
 .page-header .page-header-menu {
@@ -225,11 +225,11 @@ body.page-md {
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a:hover {
-  border-bottom: 4px solid #36c6d3;
+  border-bottom: 6px solid #840032;
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a, .page-header .page-header-menu .hor-menu .navbar-nav>li>a:hover {
-  border-bottom: 2px solid rgba(54, 198, 211, 0.52);
+  border-bottom: 2px solid #840032;
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover>i, .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a>i, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a:hover>i, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a>i {
@@ -310,7 +310,7 @@ body.page-md {
 }
 
 .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li>a>i {
-  color: #6fa7d7
+  color: #840032
 }
 
 .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li:hover>a {
@@ -319,7 +319,7 @@ body.page-md {
 }
 
 .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li:hover>a>i {
-  color: #6fa7d7
+  color: #000
 }
 
 .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li.active>a, .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li.active>a:hover, .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li.current>a, .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li.current>a:hover {
@@ -367,12 +367,12 @@ body.page-md {
 }
 
 .page-prefooter {
-  background: #48525e;
-  color: #a2abb7
+  background: #000;
+  color: #840032
 }
 
 .page-prefooter a, .page-prefooter h2 {
-  color: #44B6AE
+  color: #840032
 }
 
 .page-prefooter .subscribe-form .form-control {
@@ -433,8 +433,8 @@ body.page-md {
 }
 
 .page-footer {
-  background: #3b434c;
-  color: #a2abb7
+  background: #000;
+  color: #840032
 }
 
 .scroll-to-top>i {
