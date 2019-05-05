@@ -144,7 +144,7 @@ li.ng-scope {
   .page-header .search-form .input-group .form-control{width:100%;}
   .search-form.open{width:100%!important;}
 }
-.page-spinner-bar{margin-top:50%;margin-left:50%;}
+.page-spinner-bar{margin-top:-84px;margin-left:-98px;}
 .mini-logo {
   height: 1.2em;
 }
