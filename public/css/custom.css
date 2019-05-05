@@ -195,9 +195,9 @@ li.ng-scope {
 
 .page-spinner-bar {
   position: fixed;
-  top: 50%;
-  left: 60%;
-  transform: translate(-50%, -60%);
+  top: 48%;
+  left: 53%;
+  transform: translate(-48%, -53%);
 }
 
 .mini-logo {
