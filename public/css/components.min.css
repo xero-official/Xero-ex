@@ -1,6 +1,6 @@
 body, h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
-  color: #840032
+  color: #308968
 }
 
 .dropdown-menu, .icon-btn, a {
@@ -980,7 +980,7 @@ hr, p {
 }
 
 .primary-link {
-  color: #840032;
+  color: #308968;
   font-weight: 600
 }
 
@@ -1034,7 +1034,7 @@ h1.block, h2.block, h3.block, h4.block, h5.block, h6.block {
 }
 
 a {
-  color: #840032
+  color: #308968
 }
 
 a:hover {
@@ -5887,7 +5887,7 @@ li [class*=" fa-"].icon-large, li [class*=" glyphicon-"].icon-large, li [class*=
 }
 
 .input-group-addon>i {
-  color: #840032
+  color: #308968
 }
 
 .form-control.white {
@@ -14626,7 +14626,7 @@ body[ng-controller] .modal {
 
 .tabbable-line>.nav-tabs>li.active {
   background: 0 0;
-  border-bottom: 6px solid #840032;
+  border-bottom: 6px solid #308968;
   position: relative
 }
 

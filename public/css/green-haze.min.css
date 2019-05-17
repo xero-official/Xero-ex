@@ -225,11 +225,11 @@ body.page-md {
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a:hover {
-  border-bottom: 6px solid #840032;
+  border-bottom: 6px solid #308968;
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a, .page-header .page-header-menu .hor-menu .navbar-nav>li>a:hover {
-  border-bottom: 2px solid #840032;
+  border-bottom: 2px solid #308968;
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover>i, .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a>i, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a:hover>i, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a>i {
@@ -310,7 +310,7 @@ body.page-md {
 }
 
 .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li>a>i {
-  color: #840032
+  color: #308968
 }
 
 .page-header .page-header-menu .hor-menu.hor-menu-light .navbar-nav>li .dropdown-menu li:hover>a {
@@ -368,11 +368,11 @@ body.page-md {
 
 .page-prefooter {
   background: #000;
-  color: #840032
+  color: #308968
 }
 
 .page-prefooter a, .page-prefooter h2 {
-  color: #840032
+  color: #308968
 }
 
 .page-prefooter .subscribe-form .form-control {
@@ -434,11 +434,11 @@ body.page-md {
 
 .page-footer {
   background: #000;
-  color: #840032
+  color: #308968
 }
 
 .scroll-to-top>i {
-  color: #840032;
+  color: #308968;
   font-size: 32px;
   opacity: .8;
   filter: alpha(opacity=70)

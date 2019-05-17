@@ -9,7 +9,7 @@
 }
 
 .item-border-green {
-  border-left: #840032 2px solid
+  border-left: #308968 2px solid
 }
 
 .item-border-blue {
@@ -148,7 +148,7 @@ div .todo-tasklist-item:hover {
   overflow: hidden;
   white-space: nowrap;
   max-width: 200px;
-  color: #840032;
+  color: #308968;
 }
 
 .todo-tasklist-date {
@@ -158,7 +158,7 @@ div .todo-tasklist-item:hover {
 }
 
 .todo-tasklist-date i {
-  color: #840032 !important;
+  color: #308968 !important;
   margin-right: 5px
 }
 
