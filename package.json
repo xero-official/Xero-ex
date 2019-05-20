@@ -27,8 +27,9 @@
     "rlp": "^2.2.3",
     "serve-favicon": "~2.5.0",
     "solc": "^0.5.6",
-    "web3": "1.0.0-beta.37",
-    "web3-explorer": "1.0.2"
+    "web3": "^1.0.0-beta.37",
+    "web3-explorer": "1.0.2",
+    "ws": "^3.3.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
